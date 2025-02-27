@@ -17,6 +17,15 @@ Explore the live dashboard [here.](https://app.powerbi.com/links/PjtPY4ov28?ctid
 
 - **Executive View**: Get high-level insights with KPI cards and revenue breakdowns.
 
+# Data Model
+![Finance View](https://github.com/madhu1297/Business-insight-360/blob/main/Data_model.png)
+
+# Finance View
+![Finance View](https://github.com/madhu1297/Business-insight-360/blob/main/Finance_view.png)
+
+# Executive View
+![Finance View](https://github.com/madhu1297/Business-insight-360/blob/main/Executive_view.png)
+
 # Data Sources
 The dashboard gathers data from two primary sources:
 
